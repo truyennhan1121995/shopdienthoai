@@ -544,7 +544,8 @@ body {
     float: left;
     position: relative;
     display: block;
-    padding-left: 30px;
+    padding: 0 10px;
+    padding-left: 20px;
 }
 
 #footer .tab-footer .list-footer:first-child {
