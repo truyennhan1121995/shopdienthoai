@@ -663,5 +663,9 @@ body {
     }
     #footer .tab-footer .list-footer {
         padding: 40px 10px;
+        padding-left: 10px !important;
+    }
+     #footer .tab-footer .list-footer {
+        padding: 40px 10px;
     }
 }
